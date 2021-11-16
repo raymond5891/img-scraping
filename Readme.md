@@ -179,11 +179,11 @@ pip install -r requirements.txt
 
   <img src="imgs/t-sne.png" alt="t-sne" style="zoom:72%;" />
 
-  ​																								t-sne  降维结果   
+  <center>t-sne  降维结果</center>
 
   <img src="imgs/umap.png" alt="umap" style="zoom:72%;" />
 
-  ​											            										  umap 降维结果
+  <center>umap  降维结果</center>
 
   
 
