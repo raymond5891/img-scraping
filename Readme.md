@@ -180,14 +180,10 @@ pip install -r requirements.txt
   
 
   t-sne  降维结果
-
   <img src="imgs/t-sne.png" alt="t-sne" style="zoom:72%;" />
-
   umap  降维结果
 
   <img src="imgs/umap.png" alt="umap" style="zoom:72%;" />
-
-  <center>umap  降维结果</center>
 
   
 
