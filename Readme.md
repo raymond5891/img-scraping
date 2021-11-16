@@ -177,9 +177,13 @@ pip install -r requirements.txt
   + 通过初级筛选可以去掉一些明显异常的图片，比如空白图片和宽高明显不对的图片
   + 高级筛选结果可能需要观察后确定是否真的是异常
 
+  
+
+  t-sne  降维结果
+
   <img src="imgs/t-sne.png" alt="t-sne" style="zoom:72%;" />
 
-  <center>t-sne  降维结果</center>
+  umap  降维结果
 
   <img src="imgs/umap.png" alt="umap" style="zoom:72%;" />
 
